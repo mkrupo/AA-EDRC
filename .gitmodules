@@ -1,0 +1,4 @@
+[submodule "sharedtask2025"]
+	path = sharedtask2025
+	url = https://github.com/disrpt/sharedtask2025.git
+	ignore = dirty
