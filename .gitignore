@@ -7,3 +7,8 @@
 **/.cache
 *.pyc
 .env
+
+# locally generated/licensed data artifacts
+*.rels
+*.tok
+*.conllu
