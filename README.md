@@ -21,8 +21,9 @@ git submodule update --init --recursive
 
 ## Data
 
-- [PDTB-3 explicit-only](data/pdtb/README.md)
-- TwiConv explicit-only: pending regeneration/audit
+- [PDTB-3 explicit-only](data/eng.pdtb.pdtb_explicit/README.md)
+- [TwiConv explicit-only](data/eng.pdtb.twiconv_explicit/README.md)
+- [TwiConv explicit-only all-test](data/eng.pdtb.twiconv_explicit_alltest/README.md)
 
 ## Scripts
 
