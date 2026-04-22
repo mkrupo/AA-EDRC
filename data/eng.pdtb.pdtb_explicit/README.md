@@ -32,19 +32,19 @@ From the project root, run:
 ```bash
 python3 scripts/filter_explicit_rels.py \
   --input sharedtask2025/data/eng.pdtb.pdtb/eng.pdtb.pdtb_train.rels \
-  --output data/pdtb/eng.pdtb.pdtb_explicit_train.rels
+  --output data/eng.pdtb.pdtb_explicit/eng.pdtb.pdtb_explicit_train.rels
 ```
 
 ```bash
 python3 scripts/filter_explicit_rels.py \
   --input sharedtask2025/data/eng.pdtb.pdtb/eng.pdtb.pdtb_dev.rels \
-  --output data/pdtb/eng.pdtb.pdtb_explicit_dev.rels
+  --output data/eng.pdtb.pdtb_explicit/eng.pdtb.pdtb_explicit_dev.rels
 ```
 
 ```bash
 python3 scripts/filter_explicit_rels.py \
   --input sharedtask2025/data/eng.pdtb.pdtb/eng.pdtb.pdtb_test.rels \
-  --output data/pdtb/eng.pdtb.pdtb_explicit_test.rels
+  --output data/eng.pdtb.pdtb_explicit/eng.pdtb.pdtb_explicit_test.rels
 ```
 
 ## Relation Types
